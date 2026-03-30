@@ -1,4 +1,4 @@
-class Post {
+class Post { 
   final int? id;
   final int userId;
   final String title;
